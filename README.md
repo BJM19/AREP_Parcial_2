@@ -24,6 +24,9 @@ Para usar la aplicacion deberan entrart a localhost/sin?value= o localhost/log?v
 ## video
  en este enlace encontrara el video demostracion de la aplicación montada en ec2 aws con dokcer
 
+## Docker
+
+ Las pruebas de la realizacion del proceso del docker estan almacenadas en la carpeta imgs, donde se detallada la prueba de cada paso.
 
 ## Licencia
 En este proyecto se usó la licencia GNU - se puede ver [LICENSE](LICENSE.txt) para más detalles.
